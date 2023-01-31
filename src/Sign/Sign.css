@@ -1,0 +1,6 @@
+.gradient-custom {
+    height: 100%;
+    height: 100vh;
+    background: #0a35c3;
+    background: linear-gradient(to right, rgb(17, 27, 212), rgb(24, 98, 225))
+    }
